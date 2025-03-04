@@ -1,0 +1,114 @@
+body {
+  background-color: #77b7f7;
+}
+
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-style: italic;
+  text-align: center;
+
+}
+
+.view-students-btn {
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #ebcc33;
+  color:black;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.view-students-btn:hover {
+  background-color: #3e8e41;
+}
+
+.students-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 5px;
+  z-index: 1;
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+.popup-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.students-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.students-table th,
+.students-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.students-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.students-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.students-table tr:hover {
+  background-color: #dd8383;
+}  
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+}
+
+.close-btn:hover {
+  color: #000;
+}
+
+.key{
+  top: 140px;
+  font-size: 17px;
+  text-align: left;
+  position: relative;
+  color: rgb(19, 20, 21);
+}
+
+.few{
+  color: #000;
+  padding: 0%;
+  background-color: #3e8e41;
+  text-align: center;
+  margin-top: auto;
+}

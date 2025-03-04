@@ -1,0 +1,84 @@
+.rf{
+  background-color: #ffd9e5;
+}
+.container {
+  max-width: 100%;
+}
+
+.mb-3{
+  text-align: left;
+  font-size: 20px;
+  color: black;
+}
+.form-label{
+  text-align: left;
+}
+.text-right{
+  text-align: right;
+}
+.btn-primary {
+  margin-top: 1rem;
+}
+
+.btn-danger {
+  margin-top: 1rem;
+}
+
+.table {
+  margin-top: 1rem;
+  border-collapse: collapse;
+  border: 2px solid #ccc;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.table tr:hover {
+  background-color: grey;
+} 
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination span {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.pagination span:hover {
+  background-color: #f2f2f2;
+}
+
+.pagination span.active {
+  background-color: #4c84af;
+  color: white;
+}
+
+.pagination .arrow {
+  width: 0; 
+  height: 0; 
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  cursor: pointer;
+}
+
+.pagination .arrow.left {
+  border-right: 10px solid #ccc;
+  margin-right: 5px;
+}
+
+.pagination .arrow.right {
+  border-left: 10px solid #ccc;
+  margin-left: 5px;
+}
