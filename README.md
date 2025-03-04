@@ -28,7 +28,7 @@ The app will be available at http://localhost:3000 🚀
 
 ## 📂 Project Structure
 ```
-StudentManagementSystem/
+StudentManagementSystem/sma/
 │-- src/
 │   ├── components/
 │   │   ├── NavBar.js
