@@ -27,6 +27,7 @@ npm start
 The app will be available at http://localhost:3000 🚀
 
 ## 📂 Project Structure
+```
 StudentManagementSystem/
 │-- src/
 │   ├── components/
@@ -43,5 +44,7 @@ StudentManagementSystem/
 │-- public/
 │-- package.json
 │-- README.md
+```
+
 
 [Live Demo](https://csed20-24.netlify.app) 
