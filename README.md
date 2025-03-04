@@ -38,6 +38,12 @@ StudentManagementSystem/
 │   │   ├── Achievements.js
 │   │   ├── ExtraCurricular.js
 │   │   ├── RegistrationForm.js
+│   │   ├── style1.css
+│   │   ├── style2.css
+│   │   ├── style3.css
+│   │   ├── style4.css
+│   │   ├── style5.css
+│   │   ├── style6.css
 │   ├── App.js
 │   ├── index.js
 │   ├── App.css
