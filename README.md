@@ -20,13 +20,11 @@ A **React-based web application** designed for **CSE-D students of Keshav Memori
 ### 1️⃣ Clone the Repository
 git clone https://github.com/shubhammola/StudentManagementSystem.git
 ### 2️⃣ Navigate to the project directory
-cd StudentManagementSystem
-cd sma
+Run the following commands: `cd StudentManagementSystem` then `cd sma`
 ### 3️⃣ Install Dependencies
 npm install
 ### 4️⃣ Run the Project
-npm start
-The app will be available at http://localhost:3000 🚀
+npm start - The app will be available at http://localhost:3000 🚀
 
 ## 📂 Project Structure
 ```
