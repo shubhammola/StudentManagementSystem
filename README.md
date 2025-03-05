@@ -52,5 +52,4 @@ StudentManagementSystem/sma/
 │-- README.md
 ```
 
-
-[Live Demo](https://csed20-24.netlify.app) 
+## [Live Demo](https://csed20-24.netlify.app) 
