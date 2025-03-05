@@ -22,9 +22,9 @@ git clone https://github.com/shubhammola/StudentManagementSystem.git
 ### 2️⃣ Navigate to the project directory
 Run the following commands: `cd StudentManagementSystem` then `cd sma`
 ### 3️⃣ Install Dependencies
-npm install
+`npm install`
 ### 4️⃣ Run the Project
-npm start - The app will be available at http://localhost:3000 🚀
+`npm start` - The app will be available at http://localhost:3000 🚀
 
 ## 📂 Project Structure
 ```
